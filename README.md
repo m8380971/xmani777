@@ -19,9 +19,6 @@ Passionate about **Quality**, **Security**, and **Performance** in software deve
 <a href="https://github.com/xmani777">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xmani777&theme=radical&hide_border=true" alt="Streak Stats">
 </a>
-
-[![Discord Presence](https://lanyard.kyrie25.dev/api/1445570266515116132?bg=ffffff&waveColor=9f2248&clanbg=9f2248&hideProfile=false&hideSpotify=false&hideStatus=false&hideDecoration=false&showDisplayName=false&theme=dark&idleMessage=Just%20chilling&waveSpotifyColor=9f2248)](https://discord.com/users/1445570266515116132)[!
-
 ---
 
 ## 🌐 Connect with Me
